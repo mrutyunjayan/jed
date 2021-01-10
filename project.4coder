@@ -1,5 +1,5 @@
 version(1);
-project_name = "text_editor";
+project_name = "jed";
 patterns = {
 "*.c",
 "*.cpp",

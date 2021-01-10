@@ -3,7 +3,7 @@
 SET project=%cd%
 SET code=%project%\code
 
-IF NOT EXIST build mkdir build
+IF NOT EXIST build MKDIR build
 
 SET debug_flags=^
 	-Zi^
